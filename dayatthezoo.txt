@@ -1,0 +1,85 @@
+Wake up the animals in the zoo
+Harry Potter the Lion is awake
+Neville Longbottom the Lion is awake
+Ron Weasley the Elephant is awake
+Albus Dumbledore the Elephant is awake
+Choe Chang the Rhino is awake
+Peter Pettigrew the Rhino is awake
+Tom Riddle the Tiger is awake
+Draco Malfoy the Tiger is awake
+Severus Snape the Hippo is awake
+Luna Lovegood the Hippo is awake
+Hermione Granger the Cat is awake
+Minerva McGonagall the Cat is awake
+Rubeus Hagrid the Wolf is awake
+Remus Lupin the Wolf is awake
+Bellatrix Lestrange the Dog is awake
+Sirius Black the Dog is awake
+Check if all animals are awake and present by each making random noises
+Harry Potter the Lion says, REMEMBER WHO YOU ARE
+Neville Longbottom the Lion says, REMEMBER WHO YOU ARE
+Ron Weasley the Elephant says, Listen to me play smooth jazz on my trumpet!
+Albus Dumbledore the Elephant says, Listen to me play smooth jazz on my trumpet!
+Choe Chang the Rhino says, Look at my pointy nose!
+Peter Pettigrew the Rhino says, Look at my pointy nose!
+Tom Riddle the Tiger says my name is spelled TIGGER
+Draco Malfoy the Tiger says my name is spelled TIGGER
+Severus Snape the Hippo says, I love to swim
+Luna Lovegood the Hippo says, I love to swim
+Hermione Granger the Cat barks angrily
+Minerva McGonagall the Cat meows softly
+Rubeus Hagrid the Wolf says I HATE TWILIGHT!
+Remus Lupin the Wolf says I HATE TWILIGHT!
+Bellatrix Lestrange the Dog says I AM SO FLUFFY!
+Sirius Black the Dog says I AM SO FLUFFY!
+Feed the zoo their food
+Harry Potter the Lion is eating
+Neville Longbottom the Lion is eating
+Ron Weasley the Elephant is eating
+Albus Dumbledore the Elephant is eating
+Choe Chang the Rhino is eating
+Peter Pettigrew the Rhino is eating
+Tom Riddle the Tiger is eating
+Draco Malfoy the Tiger is eating
+Severus Snape the Hippo is eating
+Luna Lovegood the Hippo is eating
+Hermione Granger the Cat is eating
+Minerva McGonagall the Cat is eating
+Rubeus Hagrid the Wolf is eating
+Remus Lupin the Wolf is eating
+Bellatrix Lestrange the Dog is eating
+Sirius Black the Dog is eating
+Make the animals work out together
+Harry Potter the Lion is running gracefully
+Neville Longbottom the Lion is running gracefully
+Ron Weasley the Elephant is running frantically
+Albus Dumbledore the Elephant is running frantically
+Choe Chang the Rhino is running frantically
+Peter Pettigrew the Rhino is running frantically
+Tom Riddle the Tiger is running gracefully
+Draco Malfoy the Tiger is running gracefully
+Severus Snape the Hippo is running frantically
+Luna Lovegood the Hippo is running frantically
+Hermione Granger the Cat is running gracefully
+Minerva McGonagall the Cat is running gracefully
+Rubeus Hagrid the Wolf is running fast
+Remus Lupin the Wolf is running fast
+Bellatrix Lestrange the Dog is running fast
+Sirius Black the Dog is running fast
+Put the animals to bed for the night
+Harry Potter the Lion is sleeping
+Neville Longbottom the Lion is sleeping
+Ron Weasley the Elephant is sleeping
+Albus Dumbledore the Elephant is sleeping
+Choe Chang the Rhino is sleeping
+Peter Pettigrew the Rhino is sleeping
+Tom Riddle the Tiger is sleeping
+Draco Malfoy the Tiger is sleeping
+Severus Snape the Hippo is sleeping
+Luna Lovegood the Hippo is sleeping
+Hermione Granger the Cat is sleeping
+Minerva McGonagall the Cat is sleeping
+Rubeus Hagrid the Wolf is sleeping
+Remus Lupin the Wolf is sleeping
+Bellatrix Lestrange the Dog is sleeping
+Sirius Black the Dog is sleeping

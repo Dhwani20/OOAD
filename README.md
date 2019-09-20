@@ -6,7 +6,6 @@ PROJECT 1:
 
 Dhwani Khatter
 
-To run file, first compile the java file by doing javac (filename).
+To run file, first compile the java file by doing javac (filename). Then run by doing java (filename)
 1. javac Zoo.java
-Then run by doing java (filename)
 2. java TestZoo

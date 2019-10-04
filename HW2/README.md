@@ -1,12 +1,6 @@
 CSCI-5448_Proj2 : A Second Day at the Zoo
 
-Title of the Project
-
-A Second Day at the Zoo
-
-Names of team members
-
-James Watson and Dhwani Khatter
+Names of team members: James Watson and Dhwani Khatter
 
 Comments on or assumptions made for the development
 

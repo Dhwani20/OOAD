@@ -1,0 +1,77 @@
+
+~~~ ZooAnnouncer: The Zookeeper is about to wake the animals! ~~~
+
+Zookeeper WAKES Margaret Macaw
+	 Margaret Macaw wakes up...
+Zookeeper WAKES Michael Macaw
+	 Michael Macaw wakes up...
+Zookeeper WAKES Tina Tiger
+	 Tina Tiger wakes up...
+Zookeeper WAKES Thomas Tiger
+	 Thomas Tiger wakes up...
+Zookeeper WAKES Ellie Elephant
+	 Ellie Elephant wakes up...
+Zookeeper WAKES Edward Elephant
+	 Edward Elephant wakes up...
+
+~~~ ZooAnnouncer: Roll call! ~~~
+
+Zookeeper CALLS Margaret Macaw
+	 Margaret Macaw says Caw Caw!
+Zookeeper CALLS Michael Macaw
+	 Michael Macaw says Caw Caw!
+Zookeeper CALLS Tina Tiger
+	 Tina Tiger says ROAR!
+Zookeeper CALLS Thomas Tiger
+	 Thomas Tiger says ROAR!
+Zookeeper CALLS Ellie Elephant
+	 Ellie Elephant says FFhhhnoouuugh!
+Zookeeper CALLS Edward Elephant
+	 Edward Elephant says FFhhhnoouuugh!
+
+~~~ ZooAnnouncer: The Zookeeper is about to feed the animals! ~~~
+
+Zookeeper FEEDS Margaret Macaw
+	This is the best food Margaret Macaw will ever taste.
+Zookeeper FEEDS Michael Macaw
+	This is the best food Michael Macaw will ever taste.
+Zookeeper FEEDS Tina Tiger
+	This is the best food Tina Tiger will ever taste.
+Zookeeper FEEDS Thomas Tiger
+	This is the best food Thomas Tiger will ever taste.
+Zookeeper FEEDS Ellie Elephant
+	This is the best food Ellie Elephant will ever taste.
+Zookeeper FEEDS Edward Elephant
+	This is the best food Edward Elephant will ever taste.
+	 Edward Elephant knocks over a tree.
+Zookeeper: Now *that* was odd!
+
+~~~ ZooAnnouncer: The Zookeeper is about to exercise the animals! ~~~
+
+Zookeeper WALKS Margaret Macaw
+	 Margaret Macaw AMBIVALENTLY **flies** about.
+Zookeeper WALKS Michael Macaw
+	 Michael Macaw DEJECTEDLY **flies** about.
+Zookeeper WALKS Tina Tiger
+	 Tina Tiger DEJECTEDLY **stalks** about.
+Zookeeper WALKS Thomas Tiger
+	 Thomas Tiger GLUMLY **stalks** about.
+Zookeeper WALKS Ellie Elephant
+	 Ellie Elephant GLUMLY **ambles** about.
+Zookeeper WALKS Edward Elephant
+	 Edward Elephant AMBIVALENTLY **ambles** about.
+
+~~~ ZooAnnouncer: The Zookeeper is closing the Zoo!  Please make your way to the exit. ~~~
+
+Zookeeper READS A STORY TO Margaret Macaw
+	 Margaret Macaw has had just about enough. Time to sleep.
+Zookeeper READS A STORY TO Michael Macaw
+	 Michael Macaw has had just about enough. Time to sleep.
+Zookeeper READS A STORY TO Tina Tiger
+	 Tina Tiger has had just about enough. Time to sleep.
+Zookeeper READS A STORY TO Thomas Tiger
+	 Thomas Tiger has had just about enough. Time to sleep.
+Zookeeper READS A STORY TO Ellie Elephant
+	 Ellie Elephant has had just about enough. Time to sleep.
+Zookeeper READS A STORY TO Edward Elephant
+	 Edward Elephant has had just about enough. Time to sleep.
